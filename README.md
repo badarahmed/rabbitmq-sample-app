@@ -1,2 +1,1 @@
-# rabbitmq-sample-app
-A repository for a task processing system with RabbitMQ and Keycloak
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
